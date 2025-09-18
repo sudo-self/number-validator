@@ -277,14 +277,17 @@ export default function PhoneValidationPage() {
         </div>
       )}
 
-      {/* Footer */}
-      <footer className="w-full text-center py-4">
-        <img
-          src="https://img.shields.io/badge/powered%20by-JesseJesse.com-blue"
-          alt="Powered by JesseJesse.com"
-          className="mx-auto"
-        />
-      </footer>
+    {/* Footer */}
+<footer className="w-full text-center py-4">
+  <a href="https://phone-number-valid.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/powered%20by-JesseJesse.com-blue"
+      alt="Powered by JesseJesse.com"
+      className="mx-auto hover:opacity-80 transition"
+    />
+  </a>
+</footer>
+
     </div>
   );
 }
