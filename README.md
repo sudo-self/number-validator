@@ -1,7 +1,6 @@
 # 📱 Number Validator
 
-A Next.js app for validating phone numbers using the [NumVerify API](https://numverify.com/) and storing lookup history in a [Turso (libSQL)](https://turso.tech/) database.  
-Fully responsive with Tailwind CSS.
+A Next.js app for validating phone numbers using the [NumVerify API](https://numverify.com/) and storing lookup history in a [Turso (libSQL)](https://turso.tech/) database. Fully responsive with Tailwind CSS.
 
 ---
 
